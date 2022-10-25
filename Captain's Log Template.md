@@ -13,22 +13,22 @@ tabs: Log <% tp.file.title.split('-')[0]%>
 
 - [ ] Check Email
 
-- [ ]Check Teams
+- [ ] Check Teams
 
-- [ ]Check Calendar
+- [ ] Check Calendar
 
 
 ### End of Day
 
-- [ ]Show Offline
+- [ ] Show Offline
 
-- [ ]Clean Unused Headings in Daily Log
+- [ ] Clean Unused Headings in Daily Log
 
-- [ ]Check tomorrow's Calendar
+- [ ] Check tomorrow's Calendar
 
-- [ ]Daily Status Update
+- [ ] Daily Status Update
 
-- [ ]ADO daily items
+- [ ] ADO daily items
 
 ## Tasks
 
@@ -49,11 +49,11 @@ due on <%tp.date.now("YYYY-MM-DD")%>
 
 ## Meeting Log
 
-###
+### 
 
 ## Daily Log
 
-###
+### 
 
 ## Notes for night call
 
